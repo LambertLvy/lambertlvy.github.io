@@ -1,2 +1,3 @@
 name: Lambert Lvy, located at Hangzhou China
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
